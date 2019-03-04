@@ -1,0 +1,15 @@
+{
+    "name": "ripon/press",
+    "description": "A markdown power blog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "riponrtbd",
+            "email": "ripon@rtbd.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^3.8"
+    }
+}
